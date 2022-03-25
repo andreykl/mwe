@@ -1,0 +1,7 @@
+-R src MyNameSpace
+-arg -impredicative-set
+-arg -w
+-arg -notation-overridden,-unexpected-implicit-declaration
+
+src/Environment.v
+src/File1.v
